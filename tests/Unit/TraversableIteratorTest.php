@@ -8,6 +8,8 @@ use PHPUnit\Framework\TestCase;
 use WMDE\TraversableIterator\TraversableIterator;
 
 /**
+ * @covers WMDE\TraversableIterator\TraversableIterator
+ *
  * @license GNU GPL v2+
  * @author Jeroen De Dauw < jeroendedauw@gmail.com >
  */
