@@ -2,7 +2,7 @@
 	"name": "wmde/traversable-iterator",
 	"description": "Turn Traversable objects into Iterators. Fixed version of the native IteratorIterator",
 	"homepage": "https://github.com/wmde/traversable-iterator",
-	"license": "GPL-2.0+",
+	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.0"
 	},
